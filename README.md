@@ -1,2 +1,2 @@
 # SpotifyScarper
-Integrate spotpy for fetch song
+Integrate spotpy for fetch songs
